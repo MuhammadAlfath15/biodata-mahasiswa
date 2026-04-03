@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Efek Cybergilism Cozy & Warm */
+.cozy-cybergilism {
+  pointer-events: none; /* Biar ngga ganggu tombol klik */
+  opacity: 0.15; /* SANGAT PENTING: Tipis agar tetap cozy */
+  filter: blur(1.5px); /* Sedikit buram agar lebih soft */
+}
